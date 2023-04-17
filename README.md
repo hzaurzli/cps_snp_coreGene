@@ -5,10 +5,10 @@ Look for the CPS backbone as well as call different strains CPS CNP and Indel
 ## Install
 ```
 # install env
-conda env create -f cps_snp_coreGene.yml
+conda env create -f cps_snp_coreGene.yaml
 
 # activate env
-source activate cps_snp_coreGene_env
+source activate cps_snp_coreGene
 ```
 
 ## snp/indel
